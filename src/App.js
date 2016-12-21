@@ -8,9 +8,7 @@ class App extends Component {
     this.state={
       data:[]
     }
-    setInterval(()=>{
-      this.getData();
-    },2000);
+    setInterval(()=>{this.getData();},5000);
   }
   async getData(){
     let data = await request('./data/currentData.json');

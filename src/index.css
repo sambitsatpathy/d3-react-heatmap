@@ -4,11 +4,10 @@ body {
   font-family: sans-serif;
 }
 path{
-  shape-rendering:"crispEdges";
-  stroke:black;
+  stroke:white;
   stroke-width:1px;
-  transition: all 2s;
+  transition: all 1s;
 }
 path:hover{
-  opacity: 0.3;
+  opacity: 0.1;
 }
