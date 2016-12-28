@@ -8,16 +8,21 @@ class App extends Component {
     this.state={
       data:[]
     }
-    setInterval(()=>{this.getData();},5000);
+    this.getData();
+    setInterval(()=>this.getData(),1000);
   }
   async getData(){
-    let data = await request('./data/currentData.json');
+    let {data} = await request('./data/currentData.json');
     this.setState({data});
   }
   render(){
+    if(this.state.data.length===0){
+      return null;
+    }
     return (
       <div className="App">
-      <HeatMap/>
+        <h2>24 hour workload on an average week.</h2>
+        <HeatMap data={this.state.data}/>
       </div>
     );
   }
