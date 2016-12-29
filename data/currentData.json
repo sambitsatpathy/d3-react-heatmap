@@ -6,11 +6,11 @@
     },
     {
       "key":"Monday",
-      "value":20
+      "value":0
     },
     {
       "key":"Tuesday",
-      "value":20
+      "value":0
     },
     {
       "key":"Wednesday",
@@ -18,27 +18,27 @@
     },
     {
       "key":"Thrusday",
-      "value":40
+      "value":0
     },
     {
       "key":"Friday",
-      "value":25
+      "value":0
     },
     {
       "key":"Saturday",
-      "value":15
+      "value":0
     },
     {
       "key":"Sunday",
-      "value":10
+      "value":0
     },
     {
       "key":"Monday",
-      "value":20
+      "value":0
     },
     {
       "key":"Tuesday",
-      "value":20
+      "value":0
     },
     {
       "key":"Wednesday",
@@ -46,19 +46,131 @@
     },
     {
       "key":"Thrusday",
-      "value":40
+      "value":0
     },
     {
       "key":"Friday",
-      "value":25
+      "value":0
     },
     {
       "key":"Saturday",
-      "value":15
+      "value":0
+    },
+    {
+      "key":"Sunday",
+      "value":0
+    },
+    {
+      "key":"Monday",
+      "value":0
+    },
+    {
+      "key":"Tuesday",
+      "value":0
+    },
+    {
+      "key":"Wednesday",
+      "value":0
+    },
+    {
+      "key":"Thrusday",
+      "value":0
+    },
+    {
+      "key":"Friday",
+      "value":0
+    },
+    {
+      "key":"Saturday",
+      "value":0
+    },
+    {
+      "key":"Sunday",
+      "value":0
+    },
+    {
+      "key":"Monday",
+      "value":0
+    },
+    {
+      "key":"Tuesday",
+      "value":0
+    },
+    {
+      "key":"Wednesday",
+      "value":0
+    },
+    {
+      "key":"Thrusday",
+      "value":0
+    },
+    {
+      "key":"Friday",
+      "value":0
+    },
+    {
+      "key":"Saturday",
+      "value":0
     },
     {
       "key":"Sunday",
       "value":10
+    },
+    {
+      "key":"Monday",
+      "value":10
+    },
+    {
+      "key":"Tuesday",
+      "value":10
+    },
+    {
+      "key":"Wednesday",
+      "value":10
+    },
+    {
+      "key":"Thrusday",
+      "value":10
+    },
+    {
+      "key":"Friday",
+      "value":10
+    },
+    {
+      "key":"Saturday",
+      "value":10
+    },
+    {
+      "key":"Sunday",
+      "value":10
+    },
+    {
+      "key":"Monday",
+      "value":10
+    },
+    {
+      "key":"Tuesday",
+      "value":10
+    },
+    {
+      "key":"Wednesday",
+      "value":10
+    },
+    {
+      "key":"Thrusday",
+      "value":10
+    },
+    {
+      "key":"Friday",
+      "value":10
+    },
+    {
+      "key":"Saturday",
+      "value":10
+    },
+    {
+      "key":"Sunday",
+      "value":20
     },
     {
       "key":"Monday",
@@ -70,23 +182,23 @@
     },
     {
       "key":"Wednesday",
-      "value":30
+      "value":20
     },
     {
       "key":"Thrusday",
-      "value":40
+      "value":20
     },
     {
       "key":"Friday",
-      "value":25
+      "value":20
     },
     {
       "key":"Saturday",
-      "value":35
+      "value":20
     },
     {
       "key":"Sunday",
-      "value":10
+      "value":20
     },
     {
       "key":"Monday",
@@ -98,31 +210,31 @@
     },
     {
       "key":"Wednesday",
-      "value":30
+      "value":20
     },
     {
       "key":"Thrusday",
-      "value":40
+      "value":20
     },
     {
       "key":"Friday",
-      "value":25
+      "value":20
     },
     {
       "key":"Saturday",
-      "value":50
+      "value":20
     },
     {
       "key":"Sunday",
-      "value":10
+      "value":30
     },
     {
       "key":"Monday",
-      "value":20
+      "value":30
     },
     {
       "key":"Tuesday",
-      "value":20
+      "value":30
     },
     {
       "key":"Wednesday",
@@ -130,31 +242,31 @@
     },
     {
       "key":"Thrusday",
-      "value":40
+      "value":30
     },
     {
       "key":"Friday",
-      "value":25
+      "value":30
     },
     {
       "key":"Saturday",
-      "value":15
+      "value":30
     },
     {
       "key":"Sunday",
-      "value":10
+      "value":40
     },
     {
       "key":"Monday",
-      "value":20
+      "value":40
     },
     {
       "key":"Tuesday",
-      "value":20
+      "value":40
     },
     {
       "key":"Wednesday",
-      "value":30
+      "value":40
     },
     {
       "key":"Thrusday",
@@ -162,27 +274,27 @@
     },
     {
       "key":"Friday",
-      "value":25
+      "value":40
     },
     {
       "key":"Saturday",
-      "value":15
+      "value":40
     },
     {
       "key":"Sunday",
-      "value":10
+      "value":40
     },
     {
       "key":"Monday",
-      "value":20
+      "value":40
     },
     {
       "key":"Tuesday",
-      "value":20
+      "value":40
     },
     {
       "key":"Wednesday",
-      "value":30
+      "value":40
     },
     {
       "key":"Thrusday",
@@ -190,27 +302,27 @@
     },
     {
       "key":"Friday",
-      "value":25
+      "value":40
     },
     {
       "key":"Saturday",
-      "value":35
+      "value":40
     },
     {
       "key":"Sunday",
-      "value":10
+      "value":20
     },
     {
       "key":"Monday",
-      "value":20
+      "value":40
     },
     {
       "key":"Tuesday",
-      "value":20
+      "value":40
     },
     {
       "key":"Wednesday",
-      "value":30
+      "value":40
     },
     {
       "key":"Thrusday",
@@ -218,123 +330,11 @@
     },
     {
       "key":"Friday",
-      "value":25
-    },
-    {
-      "key":"Saturday",
-      "value":50
-    },
-    {
-      "key":"Sunday",
-      "value":10
-    },
-    {
-      "key":"Monday",
-      "value":20
-    },
-    {
-      "key":"Tuesday",
-      "value":20
-    },
-    {
-      "key":"Wednesday",
-      "value":30
-    },
-    {
-      "key":"Thrusday",
       "value":40
     },
     {
-      "key":"Friday",
-      "value":25
-    },
-    {
       "key":"Saturday",
-      "value":15
-    },
-    {
-      "key":"Sunday",
-      "value":10
-    },
-    {
-      "key":"Monday",
       "value":20
-    },
-    {
-      "key":"Tuesday",
-      "value":20
-    },
-    {
-      "key":"Wednesday",
-      "value":30
-    },
-    {
-      "key":"Thrusday",
-      "value":40
-    },
-    {
-      "key":"Friday",
-      "value":25
-    },
-    {
-      "key":"Saturday",
-      "value":15
-    },
-    {
-      "key":"Sunday",
-      "value":10
-    },
-    {
-      "key":"Monday",
-      "value":20
-    },
-    {
-      "key":"Tuesday",
-      "value":20
-    },
-    {
-      "key":"Wednesday",
-      "value":30
-    },
-    {
-      "key":"Thrusday",
-      "value":40
-    },
-    {
-      "key":"Friday",
-      "value":25
-    },
-    {
-      "key":"Saturday",
-      "value":35
-    },
-    {
-      "key":"Sunday",
-      "value":10
-    },
-    {
-      "key":"Monday",
-      "value":20
-    },
-    {
-      "key":"Tuesday",
-      "value":20
-    },
-    {
-      "key":"Wednesday",
-      "value":30
-    },
-    {
-      "key":"Thrusday",
-      "value":40
-    },
-    {
-      "key":"Friday",
-      "value":25
-    },
-    {
-      "key":"Saturday",
-      "value":50
     },
 
       {
@@ -351,19 +351,19 @@
       },
       {
         "key":"Wednesday",
-        "value":30
+        "value":20
       },
       {
         "key":"Thrusday",
-        "value":40
+        "value":20
       },
       {
         "key":"Friday",
-        "value":25
+        "value":20
       },
       {
         "key":"Saturday",
-        "value":15
+        "value":10
       },
       {
         "key":"Sunday",
@@ -371,307 +371,307 @@
       },
       {
         "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":15
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":35
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
         "value":50
       },
       {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
         "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":15
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":15
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":35
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
         "value":50
       },
       {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
         "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":15
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":15
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
-        "value":35
-      },
-      {
-        "key":"Sunday",
-        "value":10
-      },
-      {
-        "key":"Monday",
-        "value":20
-      },
-      {
-        "key":"Tuesday",
-        "value":20
-      },
-      {
-        "key":"Wednesday",
-        "value":30
-      },
-      {
-        "key":"Thrusday",
-        "value":40
-      },
-      {
-        "key":"Friday",
-        "value":25
-      },
-      {
-        "key":"Saturday",
         "value":50
+      },
+      {
+        "key":"Thrusday",
+        "value":50
+      },
+      {
+        "key":"Friday",
+        "value":50
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":10
+      },
+      {
+        "key":"Monday",
+        "value":50
+      },
+      {
+        "key":"Tuesday",
+        "value":50
+      },
+      {
+        "key":"Wednesday",
+        "value":50
+      },
+      {
+        "key":"Thrusday",
+        "value":50
+      },
+      {
+        "key":"Friday",
+        "value":50
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":10
+      },
+      {
+        "key":"Monday",
+        "value":60
+      },
+      {
+        "key":"Tuesday",
+        "value":60
+      },
+      {
+        "key":"Wednesday",
+        "value":60
+      },
+      {
+        "key":"Thrusday",
+        "value":60
+      },
+      {
+        "key":"Friday",
+        "value":60
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":10
+      },
+      {
+        "key":"Monday",
+        "value":60
+      },
+      {
+        "key":"Tuesday",
+        "value":60
+      },
+      {
+        "key":"Wednesday",
+        "value":60
+      },
+      {
+        "key":"Thrusday",
+        "value":60
+      },
+      {
+        "key":"Friday",
+        "value":60
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":10
+      },
+      {
+        "key":"Monday",
+        "value":60
+      },
+      {
+        "key":"Tuesday",
+        "value":60
+      },
+      {
+        "key":"Wednesday",
+        "value":60
+      },
+      {
+        "key":"Thrusday",
+        "value":60
+      },
+      {
+        "key":"Friday",
+        "value":60
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":10
+      },
+      {
+        "key":"Monday",
+        "value":20
+      },
+      {
+        "key":"Tuesday",
+        "value":20
+      },
+      {
+        "key":"Wednesday",
+        "value":20
+      },
+      {
+        "key":"Thrusday",
+        "value":20
+      },
+      {
+        "key":"Friday",
+        "value":20
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":10
+      },
+      {
+        "key":"Monday",
+        "value":10
+      },
+      {
+        "key":"Tuesday",
+        "value":10
+      },
+      {
+        "key":"Wednesday",
+        "value":10
+      },
+      {
+        "key":"Thrusday",
+        "value":10
+      },
+      {
+        "key":"Friday",
+        "value":10
+      },
+      {
+        "key":"Saturday",
+        "value":10
+      },
+      {
+        "key":"Sunday",
+        "value":0
+      },
+      {
+        "key":"Monday",
+        "value":0
+      },
+      {
+        "key":"Tuesday",
+        "value":0
+      },
+      {
+        "key":"Wednesday",
+        "value":0
+      },
+      {
+        "key":"Thrusday",
+        "value":0
+      },
+      {
+        "key":"Friday",
+        "value":0
+      },
+      {
+        "key":"Saturday",
+        "value":0
+      },
+      {
+        "key":"Sunday",
+        "value":0
+      },
+      {
+        "key":"Monday",
+        "value":0
+      },
+      {
+        "key":"Tuesday",
+        "value":0
+      },
+      {
+        "key":"Wednesday",
+        "value":0
+      },
+      {
+        "key":"Thrusday",
+        "value":0
+      },
+      {
+        "key":"Friday",
+        "value":0
+      },
+      {
+        "key":"Saturday",
+        "value":0
+      },
+      {
+        "key":"Sunday",
+        "value":0
+      },
+      {
+        "key":"Monday",
+        "value":0
+      },
+      {
+        "key":"Tuesday",
+        "value":0
+      },
+      {
+        "key":"Wednesday",
+        "value":0
+      },
+      {
+        "key":"Thrusday",
+        "value":0
+      },
+      {
+        "key":"Friday",
+        "value":0
+      },
+      {
+        "key":"Saturday",
+        "value":0
+      },
+      {
+        "key":"Sunday",
+        "value":0
+      },
+      {
+        "key":"Monday",
+        "value":0
+      },
+      {
+        "key":"Tuesday",
+        "value":0
+      },
+      {
+        "key":"Wednesday",
+        "value":0
+      },
+      {
+        "key":"Thrusday",
+        "value":0
+      },
+      {
+        "key":"Friday",
+        "value":0
+      },
+      {
+        "key":"Saturday",
+        "value":0
       }
   ]
 }
