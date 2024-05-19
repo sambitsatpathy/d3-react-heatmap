@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://sambitsatpathy.github.io/d3-react-heatmap/",
   "devDependencies": {
-    "gh-pages": "^0.12.0",
+    "gh-pages": ">=5.0.0",
     "react-scripts": "0.8.4"
   },
   "dependencies": {
